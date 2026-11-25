@@ -1,0 +1,2 @@
+-- grid-bench — minimal Lua helper module
+-- Author: @5ilvabyte
